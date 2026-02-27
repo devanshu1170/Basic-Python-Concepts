@@ -15,7 +15,8 @@ print("The quotient is: ", division)
 
 name1=input("Enter your first name: ")
 name2=input("Enter your last name: ")
-print("hello " + name1 + name2 + "! welcome to the python program" )
+print("hello " + name1 + " " + name2 + "! welcome to the python program" )
+
 
 
 
